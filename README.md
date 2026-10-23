@@ -78,4 +78,4 @@ Read [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for decisions and scope. The i
 
 Before public deployment: add email verification, password reset, login/signup throttling, HTTPS/edge request limits, storage quotas, audit/retention controls, malware scanning and isolated document workers. Add queue recovery for interrupted workers, PostgreSQL/Redis/S3 integration tests and tested backup/restore. Hosting app data in India does not automatically place future model/provider processing in India.
 
-Source review: [PROJECT_REVIEW.md](PROJECT_REVIEW.md). Retain SentifyAI attribution and its license when migrating its source into this repository.
+Retain SentifyAI attribution and its license when migrating its source into this repository.
