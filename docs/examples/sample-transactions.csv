@@ -1,0 +1,5 @@
+date,description,money_in_inr,money_out_inr
+2026-10-01,Opening balance example,100000.00,0.00
+2026-10-03,Customer receipt example,25000.00,0.00
+2026-10-04,Supplier payment example,0.00,18000.00
+2026-10-05,Office rent example,0.00,15000.00

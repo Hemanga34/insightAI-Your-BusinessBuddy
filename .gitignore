@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+*.db
+data/
+node_modules/
+.svelte-kit/
+build/
+dist/
+.DS_Store

@@ -1,0 +1,1 @@
+"""InsightAI business finance backend."""
